@@ -20,6 +20,7 @@ public class Getallincident {
 		System.out.println(response.getStatusCode());
 		System.out.println(response.getContentType());
 		System.out.println(response.prettyPrint());
+		System.out.println("Hello");
 		
 	}
 }
